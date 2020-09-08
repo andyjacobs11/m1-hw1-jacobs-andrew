@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+    display:block;
+}
+
+body{
+	padding: 5%;
+	color: black;
+	background-image: url("images/background.jpeg");
+	background-size: fill;
+	text-align: center;
+}
+
+nav{
+	padding: 3%;
+}
+
+nav ul li{
+	display: inline;
+	padding: 5%;
+}
+
+main{
+	text-align: left;
+}
+
+h2{
+	padding: 5% 0 1% 0;
+}
+
+footer{
+	padding: 5% 0 0 0;
+}
